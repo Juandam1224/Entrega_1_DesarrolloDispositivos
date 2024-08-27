@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Form">Mi Formulario</string>
+    <string name="Send">Enviar</string>
+    <string name="Delete">Borrar</string>
+    <string name="Name">Nombre: </string>
+    <string name="LastName">Apellido: </string>
+    <string name="Age">Edad: </string>
+    <string name="Email">Correo Electronico: </string>
+    <string name="Address">Direccion: </string>
+    <string name="Phone">Telefono: </string>
+
+    <string name="Form2">Sus Datos</string>
+    <string name="End">Finalizar</string>
+
+
+</resources>
